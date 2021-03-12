@@ -1,6 +1,5 @@
 # Entrance page
 
-Add here links to the maps that you have created:
+Links to delay spectra:
 
- - [Link to test map](https://honggeunkim.github.io/test_repo/test_map.html)
- - [Link to test map](https://honggeunkim.github.io/test_repo/delay_spectrum_2459279.html)
+ - [delay spectrum 2459279](https://honggeunkim.github.io/test_repo/delay_spectrum_2459279.html)
